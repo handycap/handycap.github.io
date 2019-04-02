@@ -1,9 +1,9 @@
 ---
-layout: page
+<!-- layout: page  -->
 title: Smartphone und Tablet- Reparaturen
 description: Wir reparieren ihr Gerät
-background: '/img/handy.jpg'
-permalink: /handy
+background: 
+permalink: 
 form: true
 ---
 
