@@ -181,7 +181,7 @@ Alle Preise beinhalten Material und Reparatur.
 <hr />
 
 
-### iPad Pro 9.9
+### iPad Pro 9.7
 
 <table style="width:70%">
   <tr>
