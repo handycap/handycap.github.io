@@ -35,7 +35,7 @@ Alle Preise beinhalten Material und Reparatur.
 ## Apple
 **Smartphones**: [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
 
-**Tablets**: <a href="#ipadpro129">iPad Pro 12.9</a>[iPad Pro 12.9](#ipad-pro-12.9), [iPad Pro 9.7](#ipad-pro-9-7), [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
+**Tablets**: <a href="#ipadpro129">iPad Pro 12.9</a>, <a href="#ipadpro97">iPad Pro 9.7</a>, [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
 <div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
 
@@ -153,8 +153,6 @@ Alle Preise beinhalten Material und Reparatur.
 <h3 class="">iPad Pro 12.9</h3><a name="ipadpro129"></a>
 
 
-### iPad Pro 12.9
-
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
@@ -183,8 +181,7 @@ Alle Preise beinhalten Material und Reparatur.
 
 <hr />
 
-
-### iPad Pro 9.7
+<h3 class="">iPad Pro 9.7</h3><a name="ipadpro97"></a>
 
 <table style="width:70%">
   <tr>
