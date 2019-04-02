@@ -35,7 +35,7 @@ Alle Preise beinhalten Material und Reparatur.
 ## Apple
 **Smartphones**: [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
 
-**Tablets**: [iPad Pro 12.9](#ipad-pro-12.9), [iPad Pro 9.9](#ipad-pro-9.9), [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
+**Tablets**: [iPad Pro 12.9](#ipad-pro-12.9), [iPad Pro 9.7](#ipad-pro-9-7), [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
 <div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
 
@@ -307,10 +307,18 @@ Galaxy S5|185.--|25.--
 <hr />
 
 ## Panzerglasfolien für diverse Handys und Tablets
-|---
-|Handys | 15.-- bis 20.--
-|Tablets | 20.-- bis 25.--
-|---
+
+<table style="width:70%">
+  <tr>
+    <th>Handys</th>
+    <th>15.-- bis 20.-- Franken</th>
+     </tr>
+  <tr>
+    <td>Tablets</td>
+    <td>20.-- bis 25.--</td>
+    </tr>
+</table> 
+
 
 <div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
 
