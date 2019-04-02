@@ -150,7 +150,8 @@ Alle Preise beinhalten Material und Reparatur.
 
 <hr />
 
-<h3 class="">iPad Pro 12.9</h3><a name="ipadpro129"></a>
+<a name="ipadpro129"></a>
+<h3 class="">iPad Pro 12.9</h3>
 
 
 <table style="width:70%">
@@ -181,7 +182,8 @@ Alle Preise beinhalten Material und Reparatur.
 
 <hr />
 
-<h3 class="">iPad Pro 9.7</h3><a name="ipadpro97"></a>
+<a name="ipadpro97"></a>
+<h3 class="">iPad Pro 9.7</h3>
 
 <table style="width:70%">
   <tr>
