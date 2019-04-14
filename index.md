@@ -33,7 +33,7 @@ Alle Preise beinhalten Material und Reparatur.
 **Allgemein**: [Panzerglasfolien](#panzerglasfolien)
 
 ## Apple
-**Smartphones**: [iPhone XS Max](#iphone-xs max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
+**Smartphones**: [iPhone XS Max](#iphone-xs-max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
 
 **Tablets**: <a href="#ipadpro129">iPad Pro 12.9</a>, <a href="#ipadpro97">iPad Pro 9.7</a>, [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
