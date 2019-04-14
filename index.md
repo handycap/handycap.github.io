@@ -33,7 +33,7 @@ Alle Preise beinhalten Material und Reparatur.
 **Allgemein**: [Panzerglasfolien](#panzerglasfolien)
 
 ## Apple
-**Smartphones**: [iPhone XS Max](#iphone-xs-max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
+**Smartphones**: [iPhone XS Max](#iphone-xs-max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus), [iPhone 7](#iphone-7), [iPhone 6s Plus](#iphone-6s-plus), [iPhone 6s](#iphone-6s), [iPhone 6 Plus](#iphone-6-plus), [iPhone 6](#iphone-6), [iPhone SE](#iphone-se), [iPhone 5s](#iphone-5s),
 
 **Tablets**: <a href="#ipadpro129">iPad Pro 12.9</a>, <a href="#ipadpro97">iPad Pro 9.7</a>, [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
@@ -189,6 +189,244 @@ Alle Preise beinhalten Material und Reparatur.
 
 <hr />
 
+### iPhone 7
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>180 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>50 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 6s Plus
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>185 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>50 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 6s
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>150 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>50 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 6 Plus
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>140 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>45 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 6
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>120 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>45 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone SE
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>105 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>45 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 5s
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>105 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>45 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/Mikrofon</td>
+    <td>65 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
 <a name="ipadpro129"></a>
 <h3 class="">iPad Pro 12.9</h3>
 
@@ -260,21 +498,9 @@ Alle Preise beinhalten Material und Reparatur.
     <th>Defekt</th>
     <th>Preis</th>
      </tr>
-  <tr>
-    <td>Touchscreen</td>
-    <td>auf Anfrage</td>
-    </tr>
  <tr>
     <td>Display</td>
     <td>auf Anfrage</td>
-    </tr>
- <tr>
-    <td>Ladebuchse</td>
-    <td>-</td>
-    </tr>
- <tr>
-    <td>Homebutton</td>
-    <td>-</td>
     </tr>
 </table>
 
@@ -293,19 +519,19 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Touchscreen</td>
-    <td>110.-</td>
+    <td>110 CHF</td>
     </tr>
  <tr>
     <td>Display</td>
-    <td>-</td>
+    <td>auf Anfrage</td>
     </tr>
  <tr>
     <td>Ladebuchse</td>
-    <td>85.-</td>
+    <td>85 CHF</td>
     </tr>
  <tr>
     <td>Homebutton</td>
-    <td>85.-</td>
+    <td>85 CHF</td>
     </tr>
 </table>
 
