@@ -101,11 +101,11 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>450.-</td>
+    <td>450 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>75.-</td>
+    <td>75 CHF</td>
     </tr>
 </table> 
 
@@ -122,11 +122,11 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>260.-</td>
+    <td>260 CHF</td>
     </tr>
   <tr>
     <td>Akkutausch</td>
-    <td>50.-</td>
+    <td>50 CHF</td>
     </tr>
 </table>
 
@@ -143,11 +143,11 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>235.-</td>
+    <td>235 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>50.-</td>
+    <td>50 CHF</td>
     </tr>
 </table>
 
@@ -164,23 +164,23 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>220.-</td>
+    <td>220 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>50.-</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/Mikrofon</td>
-    <td>65.-</td>
+    <td>65 CHF</td>
     </tr>
  <tr>
     <td>Homebutton</td>
-    <td>35.-</td>
+    <td>35 CHF</td>
     </tr>
  <tr>
     <td>Mute, Lautstärke Knöpfe</td>
-    <td>60.-</td>
+    <td>60 CHF</td>
     </tr>
 </table>
 
