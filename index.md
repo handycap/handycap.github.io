@@ -33,11 +33,45 @@ Alle Preise beinhalten Material und Reparatur.
 **Allgemein**: [Panzerglasfolien](#panzerglasfolien)
 
 ## Apple
-**Smartphones**: [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
+**Smartphones**: [iPhone XS Max](#iphone-xs max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
 
 **Tablets**: <a href="#ipadpro129">iPad Pro 12.9</a>, <a href="#ipadpro97">iPad Pro 9.7</a>, [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
 <div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone XS Max
+
+ <table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>540.-</td>
+    </tr>
+</table> 
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone XS
+
+ <table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>490.-</td>
+    </tr>
+</table> 
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
 
 <hr />
 
@@ -67,7 +101,11 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>490.-</td>
+    <td>450.-</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>75.-</td>
     </tr>
 </table> 
 
@@ -84,7 +122,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>255.-</td>
+    <td>260.-</td>
     </tr>
 </table>
 
