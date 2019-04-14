@@ -50,7 +50,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>540.-</td>
+    <td>540 CHF</td>
     </tr>
 </table> 
 
@@ -67,7 +67,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>490.-</td>
+    <td>490 CHF</td>
     </tr>
 </table> 
 
