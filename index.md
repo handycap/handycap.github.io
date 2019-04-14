@@ -124,6 +124,10 @@ Alle Preise beinhalten Material und Reparatur.
     <td>Display</td>
     <td>260.-</td>
     </tr>
+  <tr>
+    <td>Akkutausch</td>
+    <td>50.-</td>
+    </tr>
 </table>
 
 <div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
@@ -145,22 +149,6 @@ Alle Preise beinhalten Material und Reparatur.
     <td>Akkutausch</td>
     <td>50.-</td>
     </tr>
- <tr>
-    <td>Ladebuchse</td>
-    <td>65.-</td>
-    </tr>
- <tr>
-    <td>Mikrofon</td>
-    <td>35.-</td>
-    </tr>
- <tr>
-    <td>Homebutton</td>
-    <td>35.-</td>
-    </tr>
- <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
-    <td>60.-</td>
-    </tr>
 </table>
 
 <div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
@@ -176,19 +164,15 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>230.-</td>
+    <td>220.-</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
     <td>50.-</td>
     </tr>
  <tr>
-    <td>Ladebuchse</td>
+    <td>Ladebuchse/Mikrofon</td>
     <td>65.-</td>
-    </tr>
- <tr>
-    <td>Mikrofon</td>
-    <td>35.-</td>
     </tr>
  <tr>
     <td>Homebutton</td>
