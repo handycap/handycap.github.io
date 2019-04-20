@@ -1,5 +1,6 @@
 ---
 <!-- layout: page  -->
+
 title: Smartphone und Tablet- Reparaturen
 description: Wir reparieren ihr Gerät
 background: 
