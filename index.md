@@ -674,7 +674,7 @@ Alle Preise beinhalten Material und Reparatur.
 
 
 ## Samsung
-[Galaxy Note 9](#galaxy-note-9), [Galaxy Note 8](#galaxy-note-8), [Galaxy S9+](#galaxy-S9+), [Galaxy S9](#galaxy-S9), [Galaxy S8+](#galaxy-S8+), [Galaxy S8](#galaxy-S8), [Galaxy S7 edge](#galaxy-S7-edge), [Galaxy S7](#galaxy-S7), [Galaxy S6 edge+](#galaxy-S6-edge+), [Galaxy S6 edge](#galaxy-S6-edge), [Galaxy S6](#galaxy-S6), [Galaxy A7 (2018)](#galaxy-A7-(2018)),
+[Galaxy Note 9](#galaxy-note-9), [Galaxy Note 8](#galaxy-note-8), [Galaxy S9+](#galaxy-S9+), [Galaxy S9](#galaxy-S9), [Galaxy S8+](#galaxy-S8+), [Galaxy S8](#galaxy-S8), [Galaxy S7 edge](#galaxy-S7-edge), [Galaxy S7](#galaxy-S7), [Galaxy S6 edge+](#galaxy-S6-edge+), [Galaxy S6 edge](#galaxy-S6-edge), [Galaxy S6](#galaxy-S6), <a href="#galaxya72018">Galaxy A7 (2018)</a>, <a href="#galaxya52017">Galaxy A5 (2017)</a>, <a href="#galaxya32017">Galaxy A3 (2017)</a>, <a href="#galaxya32016">Galaxy A3 (2016)</a>,
 
 <div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
 
