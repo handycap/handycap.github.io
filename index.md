@@ -1,12 +1,13 @@
 ---
 <!-- layout: page  -->
-
 title: Smartphone und Tablet- Reparaturen
-description: Wir reparieren ihr Gerät
+description: Wir stellen ihr Handy wieder auf die Beine
 background: 
 permalink: 
 form: true
 ---
+
+### Handy- u. Tabletreparaturen
 
 ## Qualität muss nicht teuer sein.
 
