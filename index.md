@@ -25,6 +25,7 @@ Ein Backup vor einer Reparatur des Gerätes ist Sache des Kunden und ist auf jed
 ## Geräte
 
 Grundsätzlich repariere ich Smartphones und Tablets aller Marken.
+Nicht aufgeführte Handy- u. Tabletmodell Reparaturpreise auf Anfrage
 
 **Hersteller**: [Apple](#apple), [Samsung](#samsung)
 
