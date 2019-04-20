@@ -1008,8 +1008,8 @@ Alle Preise beinhalten Material und Reparatur.
 
 <table style="width:70%">
   <tr>
-    <th>Handys</th>
-    <th>20 bis 25 CHF</th>
+    <td>Handys</td>
+    <td>20 bis 25 CHF</td>
      </tr>
   <tr>
     <td>Tablets</td>
