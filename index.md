@@ -674,14 +674,14 @@ Alle Preise beinhalten Material und Reparatur.
 
 
 ## Samsung
-[Galaxy S5](#galaxy-s5)
+[Galaxy Note 9](#galaxy-note-9), [Galaxy Note 8](#galaxy-note-8), [Galaxy S9+](#galaxy-S9+), [Galaxy S9](#galaxy-S9), [Galaxy S8+](#galaxy-S8+), [Galaxy S8](#galaxy-S8), [Galaxy S7 edge](#galaxy-S7-edge), [Galaxy S7](#galaxy-S7), [Galaxy S6 edge+](#galaxy-S6-edge+), [Galaxy S6 edge](#galaxy-S6-edge), [Galaxy S6](#galaxy-S6), [Galaxy A7 (2018)](#galaxy-A7-(2018)),
 
-<div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
 
 <hr />
 
 
-### Galaxy S5
+### Galaxy Note 9
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
@@ -689,21 +689,312 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>185.-</td>
+    <td>355 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>25.-</td>
+    <td>85 CHF</td>
     </tr>
 </table>
-
-Handy |Display|Akkutausch
----|---|---
-Galaxy S5|185.--|25.--
 
 <div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
 
 <hr />
+
+
+### Galaxy Note 8
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>340 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>75 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S9+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>345 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S9
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>320 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S8+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>330 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S8
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>310 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S7 edge
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>310 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S7
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>210 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S6 edge+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>270 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S6 edge
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>265 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy S6
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>200 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy A7 (2018)
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>140 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy A5 (2017)
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>160 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy A3 (2017)
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>140 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+
+### Galaxy A3 (2016)
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>140 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>65 CHF</td>
+    </tr>
+</table>
+
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
 
 ## Panzerglasfolien für diverse Handys und Tablets
 
