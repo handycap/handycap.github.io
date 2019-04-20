@@ -33,7 +33,7 @@ Alle Preise beinhalten Material und Reparatur.
 **Allgemein**: [Panzerglasfolien](#panzerglasfolien)
 
 ## Apple
-**Smartphones**: [iPhone XS Max](#iphone-xs-max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus), [iPhone 7](#iphone-7), [iPhone 6s Plus](#iphone-6s-plus), [iPhone 6s](#iphone-6s), [iPhone 6 Plus](#iphone-6-plus), [iPhone 6](#iphone-6), [iPhone SE](#iphone-se), [iPhone 5s](#iphone-5s),
+**Smartphones**: [iPhone XS Max](#iphone-xs-max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus), [iPhone 7](#iphone-7), [iPhone 6s Plus](#iphone-6s-plus), [iPhone 6s](#iphone-6s), [iPhone 6 Plus](#iphone-6-plus), [iPhone 6](#iphone-6), [iPhone SE](#iphone-se), [iPhone 5s](#iphone-5s), [iPhone 5/5c](#iphone-5/5c), [iPhone 4/4s](#iphone-4/4s),
 
 **Tablets**: <a href="#ipadpro129">iPad Pro 12.9</a>, <a href="#ipadpro97">iPad Pro 9.7</a>, [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
@@ -205,7 +205,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>50 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
+    <td>Ladebuchse/ Mikrofon</td>
     <td>65 CHF</td>
     </tr>
  <tr>
@@ -213,7 +213,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
@@ -239,7 +239,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>50 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
+    <td>Ladebuchse/ Mikrofon</td>
     <td>65 CHF</td>
     </tr>
  <tr>
@@ -247,7 +247,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
@@ -273,7 +273,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>50 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
+    <td>Ladebuchse/ Mikrofon</td>
     <td>65 CHF</td>
     </tr>
  <tr>
@@ -281,7 +281,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
@@ -307,7 +307,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>45 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
+    <td>Ladebuchse/ Mikrofon</td>
     <td>65 CHF</td>
     </tr>
  <tr>
@@ -315,7 +315,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
@@ -341,15 +341,15 @@ Alle Preise beinhalten Material und Reparatur.
     <td>45 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
-    <td>65 CHF</td>
+    <td>Ladebuchse/ Mikrofon</td>
+    <td>60 CHF</td>
     </tr>
  <tr>
     <td>Homebutton</td>
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
@@ -375,15 +375,15 @@ Alle Preise beinhalten Material und Reparatur.
     <td>45 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
-    <td>65 CHF</td>
+    <td>Ladebuchse/ Mikrofon</td>
+    <td>60 CHF</td>
     </tr>
  <tr>
     <td>Homebutton</td>
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
@@ -409,15 +409,83 @@ Alle Preise beinhalten Material und Reparatur.
     <td>45 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
-    <td>65 CHF</td>
+    <td>Ladebuchse/ Mikrofon</td>
+    <td>60 CHF</td>
     </tr>
  <tr>
     <td>Homebutton</td>
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 5/5c
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>95 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>45 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/ Mikrofon</td>
+    <td>60 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke- Knöpfe</td>
+    <td>60 CHF</td>
+    </tr>
+</table>
+
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
+### iPhone 4/4s
+
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>90 CHF</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>45 CHF</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse/ Mikrofon</td>
+    <td>55 CHF</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35 CHF</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
