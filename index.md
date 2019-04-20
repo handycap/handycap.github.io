@@ -30,7 +30,7 @@ Grundsätzlich repariere ich Smartphones und Tablets aller Marken.
 
 Alle Preise beinhalten Material und Reparatur.
 
-**Allgemein**: [Panzerglasfolien](#panzerglasfolien)
+**Allgemein**: [Panzerglasfolien für diverse Handys und Tablets](#panzerglasfolien-für-diverse-handys-und-tablets)
 
 ## Apple
 **Smartphones**: [iPhone XS Max](#iphone-xs-max), [iPhone XS](#iphone-xs), [iPhone XR](#iphone-xr), [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus), [iPhone 7](#iphone-7), [iPhone 6s Plus](#iphone-6s-plus), [iPhone 6s](#iphone-6s), [iPhone 6 Plus](#iphone-6-plus), [iPhone 6](#iphone-6), [iPhone SE](#iphone-se), [iPhone 5s](#iphone-5s), <a href="#iphone55c">iPhone 5/5c</a>, <a href="#iphone44s">iPhone 4/4s</a>,
