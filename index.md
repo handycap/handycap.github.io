@@ -430,7 +430,8 @@ Alle Preise beinhalten Material und Reparatur.
 
 <hr />
 
-### iPhone 5/5c
+<a name="iphone55c"></a>
+<h3 class="">iPhone 5/5c</h3>
 
 <table style="width:70%">
   <tr>
@@ -464,7 +465,8 @@ Alle Preise beinhalten Material und Reparatur.
 
 <hr />
 
-### iPhone 4/4s
+<a name="iphone44s"></a>
+<h3 class="">iPhone 4/4s</h3>
 
 <table style="width:70%">
   <tr>
