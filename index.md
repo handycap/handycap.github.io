@@ -637,6 +637,11 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
 </table>
 
+
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
 <a name="ipad1234"></a>
 <h3 class="">iPad 1/2/3/4</h3>
 
