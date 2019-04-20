@@ -171,7 +171,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>50 CHF</td>
     </tr>
  <tr>
-    <td>Ladebuchse/Mikrofon</td>
+    <td>Ladebuchse/ Mikrofon</td>
     <td>65 CHF</td>
     </tr>
  <tr>
@@ -179,7 +179,7 @@ Alle Preise beinhalten Material und Reparatur.
     <td>35 CHF</td>
     </tr>
  <tr>
-    <td>Mute, Lautstärke Knöpfe</td>
+    <td>Mute, Lautstärke- Knöpfe</td>
     <td>60 CHF</td>
     </tr>
 </table>
