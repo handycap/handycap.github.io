@@ -912,7 +912,9 @@ Alle Preise beinhalten Material und Reparatur.
 <hr />
 
 
-### Galaxy A7 (2018)
+<a name="galaxya72018"></a>
+<h3 class="">Galaxy A7 (2018)</h3>
+
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
@@ -933,7 +935,9 @@ Alle Preise beinhalten Material und Reparatur.
 <hr />
 
 
-### Galaxy A5 (2017)
+<a name="galaxya52017"></a>
+<h3 class="">Galaxy A5 (2017)</h3>
+
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
@@ -954,7 +958,9 @@ Alle Preise beinhalten Material und Reparatur.
 <hr />
 
 
-### Galaxy A3 (2017)
+<a name="galaxya32017"></a>
+<h3 class="">Galaxy A3 (2017)</h3>
+
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
@@ -975,7 +981,9 @@ Alle Preise beinhalten Material und Reparatur.
 <hr />
 
 
-### Galaxy A3 (2016)
+<a name="galaxya32016"></a>
+<h3 class="">Galaxy A3 (2016)</h3>
+
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
