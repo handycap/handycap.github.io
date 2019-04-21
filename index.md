@@ -2,7 +2,7 @@
 <!-- layout: page  -->
 title: Smartphone und Tablet- Reparaturen
 description: Wir stellen ihr Handy wieder auf die Beine
-background: 
+background: /766061903.jpg.png
 permalink: 
 form: true
 ---
