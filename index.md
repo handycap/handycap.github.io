@@ -1,5 +1,5 @@
 ---
-<!-- layout: page  -->
+<!-- layout: Handycap?  -->
 title: Smartphone und Tablet- Reparaturen
 description:
 background: /766061903.jpg.png
