@@ -1,7 +1,7 @@
 ---
 <!-- layout: page  -->
 title: Smartphone und Tablet- Reparaturen
-description: Wir stellen ihr Handy wieder auf die Beine
+description:
 background: /766061903.jpg.png
 permalink: 
 form: true
@@ -310,7 +310,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>45 CHF</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/ Mikrofon</td>
@@ -344,7 +344,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>45 CHF</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/ Mikrofon</td>
@@ -378,7 +378,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>45 CHF</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/ Mikrofon</td>
@@ -412,7 +412,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>45 CHF</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/ Mikrofon</td>
@@ -447,7 +447,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>45 CHF</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/ Mikrofon</td>
@@ -482,7 +482,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
  <tr>
     <td>Akkutausch</td>
-    <td>45 CHF</td>
+    <td>50 CHF</td>
     </tr>
  <tr>
     <td>Ladebuchse/ Mikrofon</td>
