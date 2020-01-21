@@ -514,7 +514,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Touchscreen</td>
-    <td>-</td>
+    <td>auf Anfrage</td>
     </tr>
  <tr>
     <td>Display</td>
@@ -545,7 +545,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Touchscreen</td>
-    <td>-</td>
+    <td>auf Anfrage</td>
     </tr>
  <tr>
     <td>Display</td>
