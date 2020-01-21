@@ -2,7 +2,7 @@
 <!-- layout: page  -->
 title: Smartphone und Tablet- Reparaturen
 description:
-background: /766061902.jpg.png
+background: /766061903.jpg.png
 permalink: 
 form: true
 ---
