@@ -56,7 +56,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>540 CHF</td>
+    <td>480 CHF</td>
     </tr>
 </table> 
 
@@ -73,7 +73,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>490 CHF</td>
+    <td>400 CHF</td>
     </tr>
 </table> 
 
@@ -90,7 +90,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>auf Anfrage</td>
+    <td>200 CHF</td>
     </tr>
 </table> 
 
@@ -107,7 +107,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>450 CHF</td>
+    <td>350 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
@@ -128,7 +128,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>260 CHF</td>
+    <td>180 CHF</td>
     </tr>
   <tr>
     <td>Akkutausch</td>
@@ -149,7 +149,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>235 CHF</td>
+    <td>175 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
@@ -238,7 +238,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>185 CHF</td>
+    <td>165 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
@@ -272,7 +272,7 @@ Alle Preise beinhalten Material und Reparatur.
      </tr>
   <tr>
     <td>Display</td>
-    <td>150 CHF</td>
+    <td>145 CHF</td>
     </tr>
  <tr>
     <td>Akkutausch</td>
