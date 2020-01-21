@@ -21,7 +21,7 @@ Zu jeder Reparatur gehört immer auch ein Rundumservice des Gerätes
 * Reinigung
 * Kontrolle aller Funktionen
 * Akku laden
-* sorgfältige Verpackung
+* Sorgfältige Verpackung
 
 **Wichtig:**
 Ein Backup vor einer Reparatur des Gerätes ist Sache des Kunden und ist auf jeden Fall zu empfehlen.
